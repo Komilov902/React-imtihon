@@ -14,6 +14,8 @@ import Itabout from './ItAbout/Itabout';
 
 import Notfound from './404/NotFound';
 import Galery from './Galery/Galery';
+import Sharh from './sharh/Sharh';
+import Courses from './Courses/Courses';
   
 
 
@@ -33,6 +35,8 @@ function App() {
               <Cursor/>
               <Telegram/>
               <Itabout/>
+              <Sharh/>
+              <Courses/>
             </>
           ]
         },

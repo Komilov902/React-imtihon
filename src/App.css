@@ -10,19 +10,7 @@
   z-index: 99999;
 }
 
-button{
-  padding: 15px 20px;
-  cursor: pointer;
-  background-color: transparent;
-  border: 2px solid blue;
-  color: white;
-  border-radius: 20px;
-  transition: all ease-in-out 0.3s;
-  &:hover{
-    transform: scale(1.02);
-    background-color: green;
-  }
-}
+
 
 
 
